@@ -1,18 +1,10 @@
-# "Real-Time Spatiotemporal Scene Intelligence"
-
-version: "1.0"
-license: "MIT"
-author: "Ayaz Ali"
-format: "IEEE-style GitHub README"
-content: |
-
 # Real-Time Spatiotemporal Scene Intelligence
 
 ### Integrated Object Detection, Multi-Object Tracking, and Trajectory-Based ActivityRecognition
 
 ---
 
-## 📌 Abstract
+## Abstract
 
 This project presents a unified, real-time spatiotemporal scene understanding frameworkintegrating deep object detection using YOLOv8, multi-object tracking via ByteTrack, andtrajectory-based activity recognition through motion modeling and supervised learning.
 The system supports:
@@ -26,7 +18,7 @@ The system supports:
 
 ---
 
-## 🧠 1. Introduction
+## 1. Introduction
 
 Modern scene intelligence requires:
 
@@ -38,7 +30,7 @@ Modern scene intelligence requires:
 
 ---
 
-## 🏗 2. System Architecture
+## 2. System Architecture
 
 ### 2.1 Object Detection
 
@@ -105,7 +97,7 @@ Loss Function:
 
 ---
 
-## 📂 3. Repository Structure
+## 3. Repository Structure
 
 ```bash
 project-root/
@@ -128,7 +120,7 @@ project-root/
 
 ---
 
-## ⚙ 4. Installation
+## 4. Installation
 
 ### Google Colab / Kaggle
 
@@ -145,7 +137,7 @@ pip install -r requirements.txt
 
 ## CUDA-enabled GPU recommended for real-time performance.
 
-## ▶ 5. Running the Pipeline
+## 5. Running the Pipeline
 
 Upload input video:
 
@@ -163,7 +155,7 @@ Output:
 
 ---
 
-## 📊 6. Experimental Protocol
+## 6. Experimental Protocol
 
 ### 6.1 Evaluation Metrics
 
@@ -200,7 +192,7 @@ F1 = 2 _ (Precision _ Recall) / (Precision + Recall)
 
 ---
 
-## 🚀 7. Performance Analysis
+## 7. Performance Analysis
 
 | Module              | Approx Latency |
 | ------------------- | -------------- |
@@ -210,7 +202,7 @@ F1 = 2 _ (Precision _ Recall) / (Precision + Recall)
 
 ## Note: Colab rendering may reduce visible FPS.
 
-## 🎯 8. Applications
+## 8. Applications
 
 - Smart Surveillance
 - Crowd Analytics
@@ -221,7 +213,7 @@ F1 = 2 _ (Precision _ Recall) / (Precision + Recall)
 
 ---
 
-## ⚠ 9. Limitations
+## 9. Limitations
 
 - Heuristic activity modeling lacks fine-grained semantics
 - No deep temporal modeling (LSTM / Transformer)
@@ -229,7 +221,7 @@ F1 = 2 _ (Precision _ Recall) / (Precision + Recall)
 
 ---
 
-## 🔮 10. Future Work
+## 10. Future Work
 
 - LSTM-based temporal reasoning
 - Transformer-based trajectory modeling
@@ -239,11 +231,11 @@ F1 = 2 _ (Precision _ Recall) / (Precision + Recall)
 
 ---
 
-## 📜 11. License
+## 11. License
 
 ## MIT License
 
-## 👤 12. Author
+## 12. Author
 
 Ayaz Ali  
 Computer Vision & Intelligent Systems Research
