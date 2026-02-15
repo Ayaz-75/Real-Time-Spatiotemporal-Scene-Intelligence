@@ -6,7 +6,7 @@
 
 ## Abstract
 
-This project presents a unified, real-time spatiotemporal scene understanding frameworkintegrating deep object detection using YOLOv8, multi-object tracking via ByteTrack, andtrajectory-based activity recognition through motion modeling and supervised learning.
+This project presents a unified, real-time spatiotemporal scene understanding framework integrating deep object detection using YOLOv8, multi-object tracking via ByteTrack, andtrajectory-based activity recognition through motion modeling and supervised learning.
 The system supports:
 
 - Real-time bounding box visualization
