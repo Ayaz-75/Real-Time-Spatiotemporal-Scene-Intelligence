@@ -1,6 +1,6 @@
 # Real-Time Spatiotemporal Scene Intelligence
 
-### Integrated Object Detection, Multi-Object Tracking, and Trajectory-Based ActivityRecognition
+### Integrated Object Detection, Multi-Object Tracking, and Trajectory-Based Activity Recognition
 
 ---
 
@@ -14,7 +14,7 @@ The system supports:
 - Trajectory rendering
 - Activity classification
 - Evaluation metrics and training curves  
-  Designed for research prototyping, surveillance analytics, and intelligent transportationsystems.
+  Designed for research prototyping, surveillance analytics, and intelligent transportation systems.
 
 ---
 
